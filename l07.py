@@ -1,0 +1,18 @@
+A = int(input("Digite A: "))
+B = int(input("Digite B: "))
+C = int(input("Digite C: "))
+D = int(input("Digite D: "))
+
+print("A + B =", A + B)
+print("A + C =", A + C)
+print("A + D =", A + D)
+print("B + C =", B + C)
+print("B + D =", B + D)
+print("C + D =", C + D)
+
+print("A * B =", A * B)
+print("A * C =", A * C)
+print("A * D =", A * D)
+print("B * C =", B * C)
+print("B * D =", B * D)
+print("C * D =", C * D)
